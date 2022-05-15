@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For BlinkLED
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1) - Tipos de Dados
+#######################################
+
+BlinkLED	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2) - Métodos e Funções
+#######################################
+
+play	KEYWORD2
+stop	KEYWORD2
+loop	KEYWORD2
+estado  KEYWORD2
+
+#######################################
+# Constants (LITERAL1) - Constantes
+#######################################
+
